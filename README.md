@@ -1,6 +1,6 @@
-`FedEx_invoice.csv` is the source data
-Data cleaning and analysis is on `assessment.ipynb`
-worksheet output is on `shipping_analysis.xlsx`
+`FedEx_invoice.csv` is the source data. <br>
+Data cleaning and analysis is on `assessment.ipynb`. <br>
+The worksheet output is on `shipping_analysis.xlsx`. <br>
 
 if you want to use Jupyter Lab to view the file in windows
 then you can use the following commands:
